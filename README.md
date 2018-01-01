@@ -1,4 +1,4 @@
-# imagepickerissue
+# Image Picker issue
 
 This project demonstrate issue with Flutter navigation and Fluter Image Picker.
 As soon as Image picker is used next navigation freezes the application.
