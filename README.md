@@ -1,8 +1,9 @@
 # imagepickerissue
 
-A new Flutter project.
+This project demonstrate issue with Flutter navigation and Fluter Image Picker.
+As soon as Image picker is used next navigation freezes the application.
+
 
 ## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](http://flutter.io/).
+Run the application. Click on the button and pick an Image. Experience the stuck application.
